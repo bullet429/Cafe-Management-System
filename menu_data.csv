@@ -1,0 +1,16 @@
+Product Category,Product ID,Product Name,Selling Price,Profit Price
+Tea and Coffee,1,KADAK CHAI,15,5
+Tea and Coffee,2,BLACK TEA,15,5
+Tea and Coffee,3,GREEN TEA,20,6
+Tea and Coffee,4,BLACK COFFEE,20,4
+Tea and Coffee,5,BLACK COFFEE,30,8
+Snacks,6,MAGGI,60,15
+Snacks,7,CHEESE MAGGI,80,20
+Snacks,8,SALAD WRAPS,80,18
+Snacks,9,SPICY PANEER WRAPS,90,30
+Snacks,10,FRENCH FRIES SALTED,70,25
+Burgers and Sandwiches,11,VEG. BURGER,45,10
+Burgers and Sandwiches,12,CHEESE & VEG. BURGER,60,15
+Burgers and Sandwiches,13,GRILLED SANDWICHES,50,18
+Burgers and Sandwiches,14,ITALIAN SANDWICHES,80,20
+Burgers and Sandwiches,15,MEXICAN SANDWICHES,90,25

@@ -1,0 +1,29 @@
+Cafe Management System
+
+This Python-based Cafe Management System offers a comprehensive solution for managing orders, payments, and deriving insightful analytics for a cafe environment. Leveraging the power of Python along with libraries such as NumPy, Pandas, and OS, this system provides accessibility for two types of users and stores data efficiently in CSV files.
+
+Features:
+Order Management: Capture detailed order information including items ordered, quantities, prices, and timestamps.
+Payment Tracking: Keep track of payments made by customers, including the payment method and transaction details.
+User Accessibility: The system accommodates two types of users, enabling both staff and administrators to interact with the system based on their roles and permissions.
+Data Storage: Utilizes CSV files for storing data, ensuring easy accessibility and portability of information.
+Analytics: Derive meaningful insights such as daily, monthly, and yearly income to track the cafe's performance over time.
+Product Insights: Identify high and low selling products within the cafe to optimize inventory management and pricing strategies.
+
+Libraries Used:
+NumPy: For efficient numerical computations and data manipulation.
+Pandas: For data analysis and manipulation, providing powerful data structures and tools.
+OS: For interacting with the operating system, enabling file management and system operations.
+
+Usage:
+Clone the repository to your local machine.
+Ensure you have Python installed along with the necessary libraries listed in the requirements.txt file.
+Run the main Python script to launch the Cafe Management System.
+Follow the prompts and menus to interact with the system, place orders, and analyze cafe performance.
+Explore the provided documentation and codebase for further customization and enhancements.
+
+Acknowledgements:
+Special thanks to the developers and contributors of NumPy, Pandas, and OS libraries for their invaluable contributions to the Python ecosystem.
+
+About the Author:
+This Cafe Management System project is developed and maintained by Jasmin Bhavesh Katkar. Feel free to reach out with any questions, suggestions, or feedback!
